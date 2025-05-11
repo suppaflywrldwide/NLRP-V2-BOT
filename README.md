@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
   <br>
   <a href="https://github.com/RayDev"><img src="https://pbs.twimg.com/profile_images/1071582837030060032/kKV-I01n_400x400.jpg" height="200" alt="All-in-One-V3"></a>
@@ -147,3 +148,6 @@ If you need any additional help, make sure to read our guides [here](docs/additi
 - Feel free to [Fork](https://github.com/RayDev/All-In-One-Bot/fork) this repository, create a feature branch and submit a pull request
 - You can keep track of all the planned features [here](https://github.com/RayDev/All-In-One-Bot/projects) or make a request for one at our [discord](https://dsc.gg/codexdev)
 "# All-in-One-V3" 
+=======
+# NLRP-V2-BOT
+>>>>>>> 7d7a88d596c0d02830ddbff8a69b558600fa81e9
