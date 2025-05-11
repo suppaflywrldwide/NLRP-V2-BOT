@@ -1,7 +1,7 @@
 module.exports = {
   OWNER_IDS: ["870179991462236170"], // Bot owner ID's
-  SUPPORT_SERVER: "https://dsc.gg/codexdev", // Your bot support server
-  CLIENT_ID: "1168170696493510826",
+  SUPPORT_SERVER: "https://discord.gg/6btjtx6A", // Your bot support server
+  CLIENT_ID: "1364443184100282369",
   VOTE: "https://dsc.gg/codexdev",
   PREFIX_COMMANDS: {
     ENABLED: true, // Enable/Disable prefix commands
@@ -11,7 +11,7 @@ module.exports = {
     SLASH: true, // Should the interactions be enabled
     CONTEXT: true, // Should contexts be enabled
     GLOBAL: true, // Should the interactions be registered globally
-    TEST_GUILD_ID: "1238428698575900682", // Guild ID where the interactions should be registered. [** Test you commands here first **]
+    TEST_GUILD_ID: "1260949285130997830", // Guild ID where the interactions should be registered. [** Test you commands here first **]
   },
   EMBED_COLORS: {
     BOT_EMBED: "#068ADD",
