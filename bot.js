@@ -1,3 +1,11 @@
+const express = require("express");
+const app = express();
+
+// Minimal HTTP server to keep Render service alive
+app.get("/", (req, res) => res.send("Bot is running"));
+app.listen(process.env.PORT || 3000, () => {
+  console.log("HTTP server started on port", process.env.PORT || 3000);
+});
 require("dotenv").config();
 require("module-alias/register");
 require("@helpers/extenders/Message");
